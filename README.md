@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AntGeneral
-- 👀 I’m interested in cooking, gaming, etc. 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on open-source.
+- 🏢 SWE at Microsoft
 - 📫 How to reach me - antongeneralov.com
 
 <!---
